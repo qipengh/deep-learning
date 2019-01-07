@@ -4,3 +4,4 @@
 
 ## 资源
 * [博客：深度学习模型压缩方法（3）-----模型剪枝（Pruning）](https://blog.csdn.net/shentanyue/article/details/83539359)
+* [博客：深度学习剪枝](https://blog.csdn.net/jacke121/article/details/79450321)
